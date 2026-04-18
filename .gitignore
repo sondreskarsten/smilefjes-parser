@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+.env
+*.csv
+*.csv.gz
+*.parquet
